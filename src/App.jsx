@@ -9,7 +9,7 @@ const App = () => {
       <ProfileCard
         name="Virat Kohli"
         bio="Born: November 5, 1988, in Delhi, India.
-            He is one of the greatest modern-day cricketers and a former captain of the Indian cricket team. Known for his aggressive batting style, sharp cricketing mind, and fitness discipline, he has redefined consistency in international cricket."
+        He is one of the greatest modern-day cricketers and a former captain of the Indian cricket team. Known for his aggressive batting style, sharp cricketing mind, and fitness discipline, he has redefined consistency in international cricket."
         image={profileImg}
       />
     </div>

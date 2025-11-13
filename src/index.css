@@ -1,15 +1,15 @@
-/* General App Background */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f2ddd3; /* light gray background */
+  background-color: #f2ddd3; 
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
 }
 
-/* Profile Card Styles */
+
 .profile-card {
   background: #eaefdb;
   padding: 20px;
@@ -19,7 +19,6 @@ body {
   text-align: center;
 }
 
-/* Profile Image */
 .profile-card img {
   width: 200px;
   height: 200px;
@@ -29,7 +28,7 @@ body {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Name */
+
 .profile-card h2 {
   margin-top: 15px;
   font-size: 1.5rem;
@@ -37,11 +36,11 @@ body {
   color: #333333;
 }
 
-/* Button */
+
 .profile-card button {
   margin-top: 15px;
   padding: 10px 20px;
-  background-color: #86a8f1; /* blue */
+  background-color: #86a8f1; 
   color: white;
   border: none;
   border-radius: 10px;
@@ -51,10 +50,10 @@ body {
 }
 
 .profile-card button:hover {
-  background-color: #9aaeed; /* darker blue */
+  background-color: #9aaeed;
 }
 
-/* Bio text */
+
 .profile-card p {
   margin-top: 12px;
   color: #555555;
